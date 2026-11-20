@@ -1,0 +1,16 @@
+body {
+background: #0092ff;
+}
+
+h1 {
+    color: #FF00A2;
+    text-shadow: 1px 1px #FF0000; 
+}
+
+.about {
+    color: #00FF33;
+}
+
+.music {
+    color: #E100FF;
+}
